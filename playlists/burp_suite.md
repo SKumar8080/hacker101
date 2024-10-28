@@ -6,7 +6,7 @@ video_src: https://www.youtube-nocookie.com/embed/videoseries?list=PLxhvVyxYRvia
 
 In this playlist we cover Portswigger's [Burp Suite](https://portswigger.net/burp) proxy -- from setup through advanced usage -- including a special guest video lesson by [James Kettle](https://twitter.com/albinowax) of Portswigger.
 
-Included Lessons
+*Included Lessons*
 -----------------
 
 - [Burp 101 - Getting Started](../sessions/burp101.md)
